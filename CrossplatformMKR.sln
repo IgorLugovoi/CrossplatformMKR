@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossplatformMKR", "CrossplatformMKR\CrossplatformMKR.csproj", "{9266764D-55E6-4292-A8A8-35B8469561BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrossPlatformMKR.Test", "CrossPlatformMKR.Test\CrossPlatformMKR.Test.csproj", "{6F2E1355-C70F-46B5-9F3F-D5C80F51B8FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9266764D-55E6-4292-A8A8-35B8469561BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9266764D-55E6-4292-A8A8-35B8469561BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9266764D-55E6-4292-A8A8-35B8469561BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9266764D-55E6-4292-A8A8-35B8469561BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F2E1355-C70F-46B5-9F3F-D5C80F51B8FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F2E1355-C70F-46B5-9F3F-D5C80F51B8FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F2E1355-C70F-46B5-9F3F-D5C80F51B8FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F2E1355-C70F-46B5-9F3F-D5C80F51B8FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4D363B-8E0B-446F-842B-41D5FEAF7F15}
+	EndGlobalSection
+EndGlobal
